@@ -1,0 +1,13 @@
+Título: Oficina de Java | Criando uma API com Java e Spring boot
+
+Resumo: Durante a atividade de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma API em Java Spring boot utilizando os verbos HTTP: POST-GET-PUT-DELETE
+
+Pré-Requisitos: Ensino Médio completo ou cursando, com noções de Java.
+
+--------------------------------------------------
+
+Titulo: Oficina de Criação de Redes
+
+Resumo: Durante a sessão de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma rede, incorporando elementos essenciais como servidor DHCP, DNS e HTTP, utilizando CISCO Packet Tracer.
+
+Pré-Requisitos: Ensino Médico completo ou cursando, iniciantes, entusiastas de tecnologia e qualquer pessoa interessada em adquirir conhecimentos práticos na criação e configuração de redes de computadores. Não é necessário conhecimento prévio em redes; esta oficina é ideal para aqueles que estão dando os primeiros passos no mundo da infraestrutura de TI.
