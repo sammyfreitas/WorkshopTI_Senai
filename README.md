@@ -25,10 +25,10 @@ A oficina tem como objetivo proporcionar uma introdução prática ao desenvolvi
 <br>
 <br>
 ## REDES | com DHCP, DNS e HTTP, utilizando CISCO Packet Tracer (4h) 
-[Acesse aqui os materiais do Workshop de Redes](WorkshopTI_Senai/Redes/) <br>
+[Acesse aqui os materiais do Workshop de Redes](Redes/) <br>
 Durante a sessão de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma rede, incorporando elementos essenciais como servidor DHCP, DNS e HTTP, utilizando CISCO Packet Tracer.
 <br>
 <br>
 ## JAVA | Criando uma API Restful com Java e Spring Boot (4h)
-[Acesse aqui os materiais do Workshop de Redes](WorkshopTI_Senai/Java/) <br>
+[Acesse aqui os materiais do Workshop de Redes](Java/) <br>
 Durante a atividade de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma API em Java Spring boot utilizando os verbos HTTP:  POST-GET-PUT-DELETE
