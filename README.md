@@ -30,5 +30,5 @@ Durante a sessão de 4h, os participantes terão a oportunidade de vivenciar a c
 <br>
 <br>
 ## JAVA | Criando uma API Restful com Java e Spring Boot (4h)
-[Acesse aqui os materiais do Workshop de Redes](Java/) <br>
+[Acesse aqui os materiais do Workshop de Java](Java/) <br>
 Durante a atividade de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma API em Java Spring boot utilizando os verbos HTTP:  POST-GET-PUT-DELETE
