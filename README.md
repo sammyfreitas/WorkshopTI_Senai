@@ -10,10 +10,12 @@ Trazer oficinas ao público em geral, apresentando aplicações técnicas integr
 •	Abrir portas para visitação dos laboratórios e ambientes pedagógicos por meio de visita guiada.
 
 ### Calendário:
-•	Dia 24 – 16h às 22h – palestra, oficina Front, Oficina de Redes<br>
-•	Dia 25 – 16h às 22h – palestra, oficina Back, oficina de Java<br>
-•	Dia 31 – 16h às 22h – palestra, oficina Front, oficina de Redes<br>
-•	Dia 01 – 16h às 22h – palestra, oficina Back, oficina de Java<br>
+•	Dia 24/01 – 16h às 22h – palestra, oficina Front, Redes<br>
+•	Dia 25/01 – 16h às 22h – palestra, oficina Back, Java<br>
+•	Dia 31/01 – 16h às 22h – palestra, oficina Front, Redes<br>
+•	Dia 01/02 – 16h às 22h – palestra, oficina Back, Java<br>
+•	Dia 24/04 – 18h às 22h – palestra, oficina Front, One Page<br>
+•	Dia 25/04 – 18h às 22h – palestra, oficina Front, One Page<br>
 <br>
 <br>
 ## FRONT END | Criando uma Landing Page com React (postagem com Github e Render) (4h)
@@ -34,6 +36,6 @@ Durante a sessão de 4h, os participantes terão a oportunidade de vivenciar a c
 Durante a atividade de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma API em Java Spring boot utilizando os verbos HTTP:  POST-GET-PUT-DELETE
 
 
-## JAVA | Criando uma OnePage Pessoal com Curriculo (4h)
+## ONE PAGE | Criando uma OnePage Pessoal com Curriculo (4h)
 [Acesse aqui os materiais do Workshop de OnePage](OnePage/) <br>
 Durante a oficina de 4h, os participantes terão a oportunidade de criar uma página inicial pessoal completa, incluindo a elaboração de um currículo. O foco será o desenvolvimento de uma página com informações pessoais como  habilidades, experiência, portfolio e formas de contato. Os participantes aprenderão conceitos de design web, layout responsivo e estruturação de curriculos para criar uma página profissional informativa. Serão ensinados conceitos básicos de HTML, CSS e JavaScript para criar sua presença profissional online.
