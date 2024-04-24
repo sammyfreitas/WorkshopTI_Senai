@@ -32,3 +32,8 @@ Durante a sessão de 4h, os participantes terão a oportunidade de vivenciar a c
 ## JAVA | Criando uma API Restful com Java e Spring Boot (4h)
 [Acesse aqui os materiais do Workshop de Java](Java/) <br>
 Durante a atividade de 4h, os participantes terão a oportunidade de vivenciar a criação e configuração prática de uma API em Java Spring boot utilizando os verbos HTTP:  POST-GET-PUT-DELETE
+
+
+## JAVA | Criando uma OnePage Pessoal com Curriculo (4h)
+[Acesse aqui os materiais do Workshop de OnePage](OnePage/) <br>
+Durante a oficina de 4h, os participantes terão a oportunidade de criar uma página inicial pessoal completa, incluindo a elaboração de um currículo. O foco será o desenvolvimento de uma página com informações pessoais como  habilidades, experiência, portfolio e formas de contato. Os participantes aprenderão conceitos de design web, layout responsivo e estruturação de curriculos para criar uma página profissional informativa. Serão ensinados conceitos básicos de HTML, CSS e JavaScript para criar sua presença profissional online.
