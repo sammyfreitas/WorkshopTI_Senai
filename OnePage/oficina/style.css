@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Verdana, sans-serif;
+}
+
+p {
+	font-size: 14px;
+}
+
+footer p {
+	font-size: 10px;
+}
